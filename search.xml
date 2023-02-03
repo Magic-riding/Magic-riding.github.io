@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>Hello World</title>
+    <url>/2023/02/01/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<span id="more"></span>
+
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>蜃海</title>
+    <url>/2023/02/02/%E8%9C%83%E6%B5%B7/</url>
+    <content><![CDATA[<h2 id="我对ta的理解"><a href="#我对ta的理解" class="headerlink" title="我对ta的理解"></a>我对ta的理解</h2><p>为了寻求未知总会踏入不归之途，哪怕心心念念的家人劝说也未有一点回心转意，一直的沉迷之中……<br>但是这次是要寻找并探索的是一座非常神秘的城堡。之前探索的人们从来会再回来，据说这座城堡如同有魔力一般让人着迷，不想回来，如同成仙那样，看到鱼群在空中飞舞，地面上盛开着珊瑚和海草，就如同置身于海底之中。<br>但是这些是它之前的样子，现在的它破败不堪，如同废墟。但是人们并不知道这样的它，从远处望去就是一个金碧辉煌的城堡……</p>
+<span id="more"></span>
+<p></p>
+
+<h2 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h2><h3 id="bilibili原视频"><a href="#bilibili原视频" class="headerlink" title="bilibili原视频"></a>bilibili原视频</h3><p><a href="https://www.bilibili.com/video/BV13B4y1h7cJ/">https://www.bilibili.com/video/BV13B4y1h7cJ/</a></p>
+<div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;">
+    <iframe src="//player.bilibili.com/player.html?aid=601261282&bvid=BV13B4y1h7cJ&cid=782489554&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"></iframe>
+</div>
+<p></p>
+
+<h3 id="youtube原视频"><a href="#youtube原视频" class="headerlink" title="youtube原视频"></a>youtube原视频</h3><p><a href="https://youtu.be/5icyTCW9QTE">https://youtu.be/5icyTCW9QTE</a></p>
+<div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;">
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/5icyTCW9QTE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"></iframe>
+</div>
+
+<h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><p>大致故事：<br>一位旅者在旅行中发现一条未被标记在地图上的一条路，便开始探索这未知的道路。<br>探索的时候发现了一个非常庞大的且精致的城市，但城市中却空无一人。<br>在这段时间内似乎有什么正在发生变化……</p>
+<hr>
+<p>感谢名单：<br>comy(@Aschin)：设计的建筑并实装了出来<br>小红(@redberd小红)：设计的管风琴<br>企鹅(@清凌Lwi)：渲染的封面<br>刀妈(@Lancet_Corgi)：制作的封面<br>@VB_van：帮忙一起制作和探讨分镜</p>
+<hr>
+<p>使用工具：<br>Adobe After Effects CC<br>Adobe Media Encoder<br>Minecraft<br>Replay Mod</p>
+<p>使用光影：<br>ComplementaryShaders_v4.4<br>BSL_v7.1.03.2<br>(视频里的画面是特调过的，无法在原光影上直展现现同样效果)</p>
+<p>使用音乐：<br>Experience - Ludovico Einaudi</p>
+<hr>
+<p>TIS Trinity Union服务器（简称TIS服）成立于2018年11月，是目前国内顶尖的Minecraft原版技术性服务器。</p>
+<p>卫星图：<a href="https://map.tis.world/">https://map.tis.world/</a><br>Discord：<a href="http://discord.gg/G52vRRb">http://discord.gg/G52vRRb</a></p>
+<p>Github：<a href="https://github.com/TISUnion/">https://github.com/TISUnion/</a></p>
+<p></p>
+<p></p>
+
+<h2 id="说点心得吧-x2F-絮叨"><a href="#说点心得吧-x2F-絮叨" class="headerlink" title="说点心得吧&#x2F;絮叨"></a>说点心得吧&#x2F;絮叨</h2><p>这个视频除了开头的分镜不是我独立做的，但是剩下的工作都是我一个人完成的，这是我第一次来认真的完成的一个视频，可能也是因为我在学校啊的时间也不多了，总不能在想之前那样随心了……<br>这个视频的主要还是以镜头语言来展示建筑的细节，毕竟之前也被强行拉去拉好几个电影的片，但是真的给我拉吐了，这是我第一次先给分镜画完之后再制作的，确实有效的提高了我出成品的速度，不在想以前那样感觉不好看换来换去的。还有背近景中景中近景远景大远景特写平时仰视俯视侧面斜侧后侧顺光逆光斜侧光测光顶光低光什么的含义和作用， 啊啊啊啊简直痛苦。<br>说真的，如果你也是想做视频的话，不管什么视频，都想给分镜想好并画出来（或是截图）这回拍摄时真的有很大帮助，而且拍摄的时候不需要再去细想这个镜头要不要的犹豫。<br>对了记得去学好影视基础，不然有时候的镜头真的丑爆了</p>
+]]></content>
+      <categories>
+        <category>视频</category>
+      </categories>
+      <tags>
+        <tag>建筑展示</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>如何加入闲聊群？</title>
+    <url>/2023/02/03/%E9%97%B2%E8%81%8A%E7%BE%A4/</url>
+    <content><![CDATA[<h2 id="QQ闲聊群"><a href="#QQ闲聊群" class="headerlink" title="QQ闲聊群"></a>QQ闲聊群</h2><span id="more"></span>
+<p></p>
+
+<h2 id="乱说"><a href="#乱说" class="headerlink" title="乱说"></a>乱说</h2><div style="text-align:center"> 
+   
+</div>
+ <p style="text-align:center;line-height:10px" >狐 狸 不 在 家
+ <p style="text-align:center;line-height:10px">一 个 人 寂 寞
+ <p style="text-align:center;line-height:10px">空虚琪琪想找人玩
+ <p>
+<img src="/images/jmzj.png" width=254.5 height=224  />
+<p style="text-align:center;line-height:10px">想不想进我被窝里玩？
+<p style="text-align:center;line-height:10px">活力琪琪! 激情四射!
+<p style="text-align:center;line-height:10px">快去下方进入闲聊群
+<p style="text-align:center;line-height:10px">让琪琪变成奇怪的样子!
+
+<h2 id="如何进入闲聊群"><a href="#如何进入闲聊群" class="headerlink" title="如何进入闲聊群"></a>如何进入闲聊群</h2><p>进入的闲聊群的方法就在下方：<br><img src="/images/qqq.jpg" width=544 height=544 /></p>
+]]></content>
+      <categories>
+        <category>其他</category>
+      </categories>
+  </entry>
+</search>
