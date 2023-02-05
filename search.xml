@@ -132,7 +132,11 @@
 
 <h3 id="youtube原视频"><a href="#youtube原视频" class="headerlink" title="youtube原视频"></a>youtube原视频</h3><p><a href="https://youtu.be/5icyTCW9QTE">https://youtu.be/5icyTCW9QTE</a><br>   <iframe width="560" height="315" src="https://www.youtube.com/embed/dHGyN1rPId4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"></iframe></p>
 <hr>
-<h2 id="视频分镜"><a href="#视频分镜" class="headerlink" title="视频分镜"></a>视频分镜</h2><embed src="/1.pdf" width="100%" height="750" type="application/pdf">
+<h2 id="视频分镜"><a href="#视频分镜" class="headerlink" title="视频分镜"></a>视频分镜</h2><iframe src="/1.pdf" width="100%" height="100%">
+
+<p>This browser does not support PDFs. Please download the PDF to view it: <a href="/index.pdf">Download PDF</a></p>
+</iframe>
+
 
 <hr>
 <h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><hr>
