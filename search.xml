@@ -199,4 +199,33 @@
         <tag>文字</tag>
       </tags>
   </entry>
+  <entry>
+    <title>我常用的软件和插件</title>
+    <url>/2023/02/19/%E6%88%91%E5%B8%B8%E7%94%A8%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%92%8C%E6%8F%92%E4%BB%B6/</url>
+    <content><![CDATA[<h1 id="有能力请支持正版"><a href="#有能力请支持正版" class="headerlink" title="有能力请支持正版"></a>有能力请支持正版</h1><span id="more"></span>
+
+<hr>
+<h1 id="软件插件"><a href="#软件插件" class="headerlink" title="软件插件"></a>软件插件</h1><h2 id="Blander插件"><a href="#Blander插件" class="headerlink" title="Blander插件"></a>Blander插件</h2><h3 id="BalnderAE："><a href="#BalnderAE：" class="headerlink" title="BalnderAE："></a>BalnderAE：</h3><p>(官方)<a href="https://aescripts.com/blenderae/">https://aescripts.com/blenderae/</a>   (和谐版，有能力请支持正版)<a href="http://www.gfxcamp.com/aescripts-blenderae/">http://www.gfxcamp.com/aescripts-blenderae/</a></p>
+<h2 id="After-Effects插件"><a href="#After-Effects插件" class="headerlink" title="After Effects插件"></a>After Effects插件</h2><h3 id="BalnderAE：-1"><a href="#BalnderAE：-1" class="headerlink" title="BalnderAE："></a>BalnderAE：</h3><p>(官方)<a href="https://aescripts.com/blenderae/">https://aescripts.com/blenderae/</a>   (和谐版，有能力请支持正版)<a href="http://www.gfxcamp.com/aescripts-blenderae/">http://www.gfxcamp.com/aescripts-blenderae/</a></p>
+<h3 id="Fast-Bokeh："><a href="#Fast-Bokeh：" class="headerlink" title="Fast Bokeh："></a>Fast Bokeh：</h3><p>(官方)<a href="https://www.rowbyte.com/fast-bokeh">https://www.rowbyte.com/fast-bokeh</a>   (和谐版，有能力请支持正版)<a href="https://www.lookae.com/fastbokeh-208/">https://www.lookae.com/fastbokeh-208/</a></p>
+<h3 id="FXConsole："><a href="#FXConsole：" class="headerlink" title="FXConsole："></a>FXConsole：</h3><p>(官方)<a href="https://www.videocopilot.net/tutorials/fx_console_plugin/">https://www.videocopilot.net/tutorials/fx_console_plugin/</a>   (和谐版，有能力请支持正版)<a href="https://www.lookae.com/fxconsole-105/">https://www.lookae.com/fxconsole-105/</a></p>
+<h3 id="Mocha-por："><a href="#Mocha-por：" class="headerlink" title="Mocha por："></a>Mocha por：</h3><p>(官方)<a href="https://borisfx.com/products/mocha-pro/">https://borisfx.com/products/mocha-pro/</a>   (和谐版，有能力请支持正版)<a href="https://www.lookae.com/mocha-965/">https://www.lookae.com/mocha-965/</a></p>
+<h3 id="Magic-Bullet-Suite："><a href="#Magic-Bullet-Suite：" class="headerlink" title="Magic Bullet Suite："></a>Magic Bullet Suite：</h3><p>(官方)<a href="https://www.maxon.net/en/red-giant/magic-bullet">https://www.maxon.net/en/red-giant/magic-bullet</a>   (和谐版，有能力请支持正版)<a href="https://www.lookae.com/mbs-13016/">https://www.lookae.com/mbs-13016/</a></p>
+<h2 id="Cinema-4D插件"><a href="#Cinema-4D插件" class="headerlink" title="Cinema 4D插件"></a>Cinema 4D插件</h2><h3 id="Redshift官网："><a href="#Redshift官网：" class="headerlink" title="Redshift官网："></a>Redshift官网：</h3><p>(官方)<a href="https://www.maxon.net/zh/redshift">https://www.maxon.net/zh/redshift</a></p>
+<h3 id="INSYDIUM套装："><a href="#INSYDIUM套装：" class="headerlink" title="INSYDIUM套装："></a>INSYDIUM套装：</h3><p>(官方)<a href="https://insydium.ltd/">https://insydium.ltd/</a></p>
+<hr>
+<h1 id="模型导出"><a href="#模型导出" class="headerlink" title="模型导出"></a>模型导出</h1><h2 id="mineways"><a href="#mineways" class="headerlink" title="mineways"></a>mineways</h2><p>优点：有图形界面，可以导出独立方块，操作简单<br>缺点：不可导实体，无法导出群系颜色（只会呈现单一颜色），不自带中文，地图太大会占有很多内存</p>
+<p>官网地址：<a href="https://www.realtimerendering.com/erich/minecraft/public/mineways/">https://www.realtimerendering.com/erich/minecraft/public/mineways/</a></p>
+<h2 id="W2M"><a href="#W2M" class="headerlink" title="W2M"></a>W2M</h2><p>优点：可导模组模型，自带中文<br>缺点：不可导实体，无法导出群系颜色（只会呈现灰色），没法导出独立方块，没有图形化界面，操作麻烦</p>
+<p>地址：<a href="https://www.bilibili.com/video/BV1YR4y1e7ce/">https://www.bilibili.com/video/BV1YR4y1e7ce/</a></p>
+<h2 id="jMc2Obj"><a href="#jMc2Obj" class="headerlink" title="jMc2Obj"></a>jMc2Obj</h2><p>优点：有图形界面，可以导出独立方块，操作易上手，自带中文，可以导出实体<br>缺点：有导出群系的选项但是不知道如何导出</p>
+<p>官网地址：<a href="https://github.com/jmc2obj/j-mc-2-obj">https://github.com/jmc2obj/j-mc-2-obj</a></p>
+]]></content>
+      <categories>
+        <category>分享</category>
+      </categories>
+      <tags>
+        <tag>文字</tag>
+      </tags>
+  </entry>
 </search>
