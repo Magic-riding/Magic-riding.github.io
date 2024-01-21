@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>Hello World</title>
+    <url>/2023/02/01/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<span id="more"></span>
+
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>兑域·蜃海</title>
+    <url>/2023/02/02/%E8%9C%83%E6%B5%B7/</url>
+    <content><![CDATA[<h2 id="我对ta的理解"><a href="#我对ta的理解" class="headerlink" title="我对ta的理解"></a>我对ta的理解</h2><p>为了寻求未知总会踏入不归之途，哪怕心心念念的家人劝说也未有一点回心转意，一直的沉迷之中……<br>但是这次是要寻找并探索的是一座非常神秘的城堡。之前探索的人们从来会再回来，据说这座城堡如同有魔力一般让人着迷，不想回来，如同成仙那样，看到鱼群在空中飞舞，地面上盛开着珊瑚和海草，就如同置身于海底之中。<br>但是这些是它之前的样子，现在的它破败不堪，如同废墟。但是人们并不知道这样的它，从远处望去就是一个金碧辉煌的城堡……</p>
+<span id="more"></span>
+<p></p>
+
+<hr>
+<h2 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h2><h3 id="bilibili原视频"><a href="#bilibili原视频" class="headerlink" title="bilibili原视频"></a>bilibili原视频</h3><p><a href="https://www.bilibili.com/video/BV13B4y1h7cJ/">https://www.bilibili.com/video/BV13B4y1h7cJ/</a><br>    <iframe src="//player.bilibili.com/player.html?aid=601261282&bvid=BV13B4y1h7cJ&cid=782489554&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"></iframe></p>
+<p></p>
+
+<hr>
+<h3 id="youtube原视频"><a href="#youtube原视频" class="headerlink" title="youtube原视频"></a>youtube原视频</h3><p><a href="https://youtu.be/5icyTCW9QTE">https://youtu.be/5icyTCW9QTE</a><br>   <iframe width="560" height="315" src="https://www.youtube.com/embed/5icyTCW9QTE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"></iframe></p>
+<hr>
+<h2 id="视频分镜"><a href="#视频分镜" class="headerlink" title="视频分镜"></a>视频分镜</h2><p>此视频的分镜为手画，所以未上传</p>
+<hr>
+<h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><p>大致故事：<br>一位旅者在旅行中发现一条未被标记在地图上的一条路，便开始探索这未知的道路。<br>探索的时候发现了一个非常庞大的且精致的城市，但城市中却空无一人。<br>在这段时间内似乎有什么正在发生变化……</p>
+<hr>
+<p>感谢名单：<br>comy(@Aschin)：设计的建筑并实装了出来<br>小红(@redberd小红)：设计的管风琴<br>企鹅(@清凌Lwi)：渲染的封面<br>刀妈(@Lancet_Corgi)：制作的封面<br>@VB_van：帮忙一起制作和探讨分镜</p>
+<hr>
+<p>使用工具：<br>Adobe After Effects CC<br>Adobe Media Encoder<br>Minecraft<br>Replay Mod</p>
+<p>使用光影：<br>ComplementaryShaders_v4.4<br>BSL_v7.1.03.2<br>(视频里的画面是特调过的，无法在原光影上直展现现同样效果)</p>
+<p>使用音乐：<br>Experience - Ludovico Einaudi</p>
+<hr>
+<p>TIS Trinity Union服务器（简称TIS服）成立于2018年11月，是目前国内顶尖的Minecraft原版技术性服务器。</p>
+<p>卫星图：<a href="https://map.tis.world/">https://map.tis.world/</a><br>Discord：<a href="http://discord.gg/G52vRRb">http://discord.gg/G52vRRb</a><br>Github：<a href="https://github.com/TISUnion/">https://github.com/TISUnion/</a></p>
+<p></p>
+<p></p>
+
+<hr>
+<h2 id="说点心得吧-x2F-絮叨"><a href="#说点心得吧-x2F-絮叨" class="headerlink" title="说点心得吧&#x2F;絮叨"></a>说点心得吧&#x2F;絮叨</h2><p>这个视频除了开头的分镜不是我独立做的，但是剩下的工作都是我一个人完成的，这是我第一次来认真的完成的一个视频，可能也是因为我在学校啊的时间也不多了，总不能在想之前那样随心了……<br>这个视频的主要还是以镜头语言来展示建筑的细节，毕竟之前也被强行拉去拉好几个电影的片，但是真的给我拉吐了，这是我第一次先给分镜画完之后再制作的，确实有效的提高了我出成品的速度，不在想以前那样感觉不好看换来换去的。还有背近景中景中近景远景大远景特写平时仰视俯视侧面斜侧后侧顺光逆光斜侧光测光顶光低光什么的含义和作用， 啊啊啊啊简直痛苦。<br>说真的，如果你也是想做视频的话，不管什么视频，都想给分镜想好并画出来（或是截图）这回拍摄时真的有很大帮助，而且拍摄的时候不需要再去细想这个镜头要不要的犹豫。<br>对了记得去学好影视基础…… <h style=color:rgba(255,255,255,0.0)>不然有些镜头如同呆子一般不知道想说什么，一直再晃</p>
+]]></content>
+      <categories>
+        <category>视频</category>
+      </categories>
+      <tags>
+        <tag>建筑展示视频</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>如何加入闲聊群？</title>
+    <url>/2023/02/03/%E9%97%B2%E8%81%8A%E7%BE%A4/</url>
+    <content><![CDATA[<h2 id="QQ闲聊群"><a href="#QQ闲聊群" class="headerlink" title="QQ闲聊群"></a>QQ闲聊群</h2><span id="more"></span>
+<p></p>
+
+<hr>
+<h2 id="乱说"><a href="#乱说" class="headerlink" title="乱说"></a>乱说</h2><div style="text-align:center"> 
+   
+</div>
+ <p style="text-align:center;line-height:10px" >狐 狸 不 在 家
+ <p style="text-align:center;line-height:10px">一 个 人 寂 寞
+ <p style="text-align:center;line-height:10px">空虚琪琪想找人玩
+ <p>
+<img src="/images/寂寞一个人在家.png" width=255 height=168.5  />
+<p style="text-align:center;line-height:10px">想不想进我被窝里玩？
+<p style="text-align:center;line-height:10px">活力琪琪! 激情四射!
+<p style="text-align:center;line-height:10px">快去下方进入闲聊群
+<p style="text-align:center;line-height:10px">让琪琪变成奇怪的样子!
+<p style="text-align:center;line-height:10px"> 	</p>
+<p style="text-align:center;line-height:35px;font-size: 35px">这个闲聊群主要是
+<p style="text-align:center;line-height:0px;font-size: 35px">通知发布了<h style=color:rgba(185,14,14,1)>新页面</h>
+<p style="text-align:center;line-height:35px;font-size: 35px">或是<h style=color:rgba(185,14,14,1)>直播通知</h>什么的
+
+<hr>
+<h2 id="如何进入闲聊群"><a href="#如何进入闲聊群" class="headerlink" title="如何进入闲聊群"></a>如何进入闲聊群</h2><p>进入的闲聊群的方法就在下方：<br><img src="/images/qq群.jpg" width=50% height=50% /></p>
+]]></content>
+      <categories>
+        <category>其他</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>优秀广告-“Omega”手表</title>
+    <url>/2023/02/04/%E4%BC%98%E7%A7%80%E5%B9%BF%E5%91%8A-%E2%80%9C%E6%AC%A7%E7%B1%B3%E4%BC%BD%E2%80%9D%E6%89%8B%E8%A1%A8/</url>
+    <content><![CDATA[<h2 id="作品介绍"><a href="#作品介绍" class="headerlink" title="作品介绍"></a>作品介绍</h2><p>这个广告是由Taxfreefilm团队为Omega(欧米茄)做的一个手表广告<br><a href="https://vimeo.com/686200784">点此处查看原网址</a></p>
+<span id="more"></span>
+
+<hr>
+<h2 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h2><h3 id="原视频"><a href="#原视频" class="headerlink" title="原视频"></a>原视频</h3><p>视频来源:<a href="https://vimeo.com/686200784">https://vimeo.com/686200784</a></p>
+<iframe src="https://player.vimeo.com/video/686200784?h=c7b953613b" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
+<h3 id="b站搬运视频"><a href="#b站搬运视频" class="headerlink" title="b站搬运视频"></a>b站搬运视频</h3><p>视频来源:<a href="https://www.bilibili.com/video/BV1PS4y1U7nZ/">https://www.bilibili.com/video/BV1PS4y1U7nZ/</a></p>
+<iframe src="//player.bilibili.com/player.html?aid=724840915&bvid=BV1PS4y1U7nZ&cid=549599934&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+<hr>
+<h2 id="我对它的理解-x2F-感触"><a href="#我对它的理解-x2F-感触" class="headerlink" title="我对它的理解&#x2F;感触"></a>我对它的理解&#x2F;感触</h2><p>我第一次看到这条广告的时候我莫名其妙的从头麻到脚 非常的身临其境，不管看几遍都是这样。</p>
+<h3 id="视频内容"><a href="#视频内容" class="headerlink" title="视频内容"></a>视频内容</h3><p>这条广告讲述了（这里是看了<a href= " https://zh.wikipedia.org/wiki/%E6%AD%90%E7%B1%B3%E8%8C%84_(%E5%85%AC%E5%8F%B8)#%E6%AD%B7%E5%8F%B2 ">wiki(点此处查看)</a>之后再融合广告的理解）“Omega”手表看似一款非常日常的手表，可是它上的月球 下的了海底 还经常成为奥林匹克运动会官方计时器。从而体现出它们的手表非常有产品力。</p>
+<h3 id="视频呈现"><a href="#视频呈现" class="headerlink" title="视频呈现"></a>视频呈现</h3><p>这条广告不管从视觉上还是音乐的氛围下都是无可挑剔的。</p>
+<h4 id="视觉"><a href="#视觉" class="headerlink" title="视觉"></a>视觉</h4><p>因为宣传的是一款机械手表，所有从视觉上所看不管是用简易的金属片来呈现画面内容还是那种有棱有角机械感 还是金属反射的呈现的效果都是无可挑剔的 看着非常的舒服，很符合主题</p>
+<h4 id="氛围音乐"><a href="#氛围音乐" class="headerlink" title="氛围音乐"></a>氛围音乐</h4><p>因为“Omega”手表是一款有着百年历史的品牌，为了体现出它的悠久所有用了一首节奏缓慢 低频偏多的歌。让人有一种成熟稳重的感觉，而且结合画面之后让人觉得是一位花甲之年的人 虽然看似非常的年老 可是它的经历非同寻常……</p>
+<hr>
+<h2 id="该扯点皮了"><a href="#该扯点皮了" class="headerlink" title="该扯点皮了"></a>该扯点皮了</h2><p>说说最近的事吧，我现在打开b站和qq群的时候 就经常看到动不动就退网，你说现在这个时代你说退网有人会相信吗？真搞不懂觉得自己理亏就选择逃避真的好吗？<br>哎 真的是看不懂……</p>
+]]></content>
+      <categories>
+        <category>作品推荐</category>
+      </categories>
+      <tags>
+        <tag>广告</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>兑域·清虚预告片</title>
+    <url>/2023/02/03/%E6%B8%85%E8%99%9A%E9%A2%84%E5%91%8A%E7%89%87/</url>
+    <content><![CDATA[<h2 id="我对ta的理解"><a href="#我对ta的理解" class="headerlink" title="我对ta的理解"></a>我对ta的理解</h2><p>我对ta没有理解<br>这只是个预告片</p>
+<span id="more"></span>
+<p></p>
+
+<hr>
+<h2 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h2><h3 id="bilibili原视频"><a href="#bilibili原视频" class="headerlink" title="bilibili原视频"></a>bilibili原视频</h3><p><a href="https://www.bilibili.com/video/BV13B4y1h7cJ/">https://www.bilibili.com/video/BV13B4y1h7cJ/</a><br>    <iframe src="//player.bilibili.com/player.html?aid=650309493&bvid=BV1Me4y1F7iS&cid=966034981&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"></iframe></p>
+<p></p>
+
+<h3 id="youtube原视频"><a href="#youtube原视频" class="headerlink" title="youtube原视频"></a>youtube原视频</h3><p><a href="https://youtu.be/5icyTCW9QTE">https://youtu.be/5icyTCW9QTE</a><br>   <iframe width="560" height="315" src="https://www.youtube.com/embed/dHGyN1rPId4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"></iframe></p>
+<hr>
+<h2 id="视频分镜"><a href="#视频分镜" class="headerlink" title="视频分镜"></a>视频分镜</h2><!-- <embed src=" /pdf/1.pdf " width="100%" height="750" type="application/pdf">
+
+<iframe src="/pdf/1.html" width="100%" height="500" frameborder="0"></iframe> -->
+
+<iframe src="/pdf/清虚预告片/2.html" width="100%" height="900" frameborder="0">  </iframe>
+
+<!--  -->
+
+<hr>
+<h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><hr>
+<p>易宫，是未来TIS服内面积最大的建筑群，期待其真正在生存竣工的那一天。</p>
+<hr>
+<p>感谢名单:<br>建筑设计@Aschin<br>视频策划@清凌Lwi<br>视频制作@Magic_riding<br>视频后期@淅尘-YNE<br>视频文案@Burningice</p>
+<hr>
+<p>工具:<br>Adobe After Effects CC<br>Adobe Audition CC<br>Adobe Media Encoder<br>Replay mod<br>Minecraft</p>
+<p>光影:<br>BSL_v8.1.02.2<br>(光影有特调加后期调色，无法再原光影上呈现)</p>
+<p>字体:<br>宋体-简 黑体<br>得意黑</p>
+<p>音乐:<br>Hide and Seek (Don Diablo Edit) - Danny Olson、JT Roach、Don Diablo<br>(此视频的音乐特调过，原音乐并非此效果)</p>
+<hr>
+<p>TIS Trinity Union服务器（简称TIS服）成立于2018年11月，是目前国内顶尖的Minecraft原版技术性服务器。<br>■ 开黑啦：<a href="https://kaihei.co/PmJVfu">https://kaihei.co/PmJVfu</a><br>■ Discord：<a href="http://discord.gg/G52vRRb">http://discord.gg/G52vRRb</a><br>■ Github：<a href="https://github.com/TISUnion/">https://github.com/TISUnion/</a></p>
+<p></p>
+<p></p>
+
+<hr>
+<h2 id="说点心得吧-x2F-絮叨"><a href="#说点心得吧-x2F-絮叨" class="headerlink" title="说点心得吧&#x2F;絮叨"></a>说点心得吧&#x2F;絮叨</h2><p>这个视频里我尝试了一下replay里的导出深度图的功能，这个功能还不错，有挺多可玩的功能。但是因为视频内容的无法全部都用上，所有之后我打算要出个视频来讲讲replay的这个功能，对了 还有想做replay可以导出摄像机路径了！虽然这个功能很早就出来了 可是之前不了解如何用就一直拖着，想做我知道如何用了，这样就可以给三维模型直接镶嵌在视频里，跟视频的画面融为一体（能渲染出于游戏一样的光影效果才行，不然还是很突兀的），希望这个功能对我之后做视频有很大帮助<p style="font-size: 1%;line-height:10px;color:rgba(255,255,255,0.0)">正片预估再明年开始做</p></p>
+]]></content>
+      <categories>
+        <category>视频</category>
+      </categories>
+      <tags>
+        <tag>实验性视频</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>RePlaymod-深度图于摄像机位置</title>
+    <url>/2023/02/13/RePlaymod-%E6%B7%B1%E5%BA%A6%E5%9B%BE%E4%BA%8E%E6%91%84%E5%83%8F%E6%9C%BA%E4%BD%8D%E7%BD%AE/</url>
+    <content><![CDATA[<h1 id="RePlaymod-深度图于摄像机位置"><a href="#RePlaymod-深度图于摄像机位置" class="headerlink" title="RePlaymod-深度图于摄像机位置"></a>RePlaymod-深度图于摄像机位置</h1><span id="more"></span>
+
+<h2 id="深度图"><a href="#深度图" class="headerlink" title="深度图"></a>深度图</h2><p>深度图顾名思义就说代表画面上各个位置离摄像机位置的距离，就如同黑夜里的蝙蝠所发出来的超声波一样来分辨距离，但游戏里我们不能像蝙蝠一样能精确的知道每个物体离画面的精确距离，所以我们得靠机器来辅助我们来分辨精确距离。好，我们现在已经知道每个物体离画面的距离，但是机器不能理解我们所说的距离，这就得用机器所能看懂的方式来表示距离。那就是深度图，深度图通常上是由黑到白的一个过度图片，在这个图片上会看到你当前画面所拍摄物体的轮廓，从而让机器来理解当前画面不同物体里画面的精确距离。这就如图片里现实透明通道一样黑透白不透一样，只是换了一种映射方式来表示物体的距离。<br>说完了深度图的含义，接下来我们来讲讲深度图对我们有什么帮助。</p>
+<h3 id="第一点"><a href="#第一点" class="headerlink" title="第一点"></a>第一点</h3><p>后期景深。因为现在的光影里要么没有景深的选项，要么开了景深但有时候的效果跳来跳去不是我们想要的效果，这样就可以用深度图来后期自定义的自己想要的景深效果。</p>
+<h3 id="第二点"><a href="#第二点" class="headerlink" title="第二点"></a>第二点</h3><p>画面合成，在高版本里不能像马哥所做的Blockbuster模组系列那样可以快速的将自己想要的模型或是其他一些什么的导入游戏中展示。</p>
+<hr>
+<h2 id="摄像机位置"><a href="#摄像机位置" class="headerlink" title="摄像机位置"></a>摄像机位置</h2><p>想必摄像机位置对经常用AE或是其他视频处理软件的人来说应该很熟悉，有了摄像机位置了之后可以将一些文字或是其他什么的在画面中进行三维的移动，就可以不用第三方软件来计算摄像机位置或是画面的跟踪了。</p>
+<hr>
+<h2 id="现在进行教程"><a href="#现在进行教程" class="headerlink" title="现在进行教程"></a>现在进行教程</h2><p>温馨提示，在开始前得先确认你用的replay版本是最新版本，以免没有导出深度图与摄像机路径的功能。</p>
+<hr>
+<h3 id="如何导出深度图"><a href="#如何导出深度图" class="headerlink" title="如何导出深度图"></a>如何导出深度图</h3><p>好，我们像来讲深度图，在录制回放中点开渲染录像，再往下滑就能看到深度图这个给选项，但是它现在是无法选择的状态，见鼠标放上去会说“只支持使用PNG或OpenEXR格式进行深度图导出”，也就是说明我们渲染格式选错了，我们现在往上滑动将渲染格式改成OpenEXR的格式导出，ps：这里不用PNG格式导出是因为导出的深度图会损毁无法使用，可能之后的mod版本会修复。之后再将深度图这个选项选上导出ing，ps：如果你导出的深度图时开着光影的话是无法正确导出深度图的，导出完之后我们打开AE（或者可以读取OpenEXR格式的软件）将渲染好的OpenEXR格式按照序列的方式导入进去，导入进去之后会发现这并不是正确的深度图的样子，而且画面整体偏白的效果。这是因为OpenEXR是一个多通道的格式，现在这个文件里是有r，g，b和z通道（通道就说我们所说的深度通道），我们要将我们需要的通道提取出来以便我们使用。点击xxx.exr图层，给这个图层加上EXtractoR效果，加上之后我们发现画面的颜色恢复了正常，也就是说明我们导出的OpenEXR的通道是正确的，之后我们点开效果空间点击多通道的位置，会弹出选择rgb三个颜色映射到哪个通道，将rgb三个颜色都映射到z通道上，点击确定，看到画面会呈现一片白的画面，不必担心这是因为我们数值还没设置对，继续看到效果空间这边将我们的白色数值拉高就会看到画面由近到远的呈现出来了，这个白色数值不是固定的，按照各自的要求随意调整，这样我们的深度图就出来了</p>
+<hr>
+<h3 id="深度图的应用"><a href="#深度图的应用" class="headerlink" title="深度图的应用"></a>深度图的应用</h3><p>后期景深<br>我们将我们渲染好的视频和我刚刚提取出来的深度图放到同一个合成里，记得深度图最好要放到画面的下面并且给隐藏掉，接下来我们给画面的图层加上插件Fast Bokeh，点开画面的效果空间，将深度图贴图选择到我们导出的深度图，并给边上的源改成效果和蒙版，再将模糊半径拉高就能有景深的效果了。如果觉得景深范围太小了，我们点开区域控制，将聚焦区宽度拉高就行了，如果现在聚焦的位置不是我们需要的，只要给焦距调到适合的位置就行了，如果你在上一步更改白色数值变成改成黑色数值只要给反转深度图贴图勾选上就有同样的效果，其他参数我就不细讲了，请给位自行摸索。</p>
+<p>画面合成<br>画面合成与我们之前所说的后期景深操作差不多，但是在调整黑色与白色值都要调整，黑色值要大于白色值，调整到适合的位置之后将被合成图层放在xxx.exr下，将轨道遮罩改成亮度翻转遮罩“xxx.exr”，这样就能完美给被合成图层合成到画面里。</p>
+<hr>
+<h3 id="如何导出摄像机位置"><a href="#如何导出摄像机位置" class="headerlink" title="如何导出摄像机位置"></a>如何导出摄像机位置</h3><p>到这里我们就讲完了深度图的应用，接下来我们来讲一下如何导出摄像机位置。<br>我们回到录制回放，往下滑，看到导出摄像路径，给这个选项选上，在点渲染，渲染完之后看到成品文件夹里多了一个camera.glb的文件，这个就是我们要的摄像机路径了。glb这个文件我们是不能直接导入到AE中去的，我们得在三维软件里读取之后直接导入到AE里，在我用的三维软件里只有Blender能满足导入.glb文件且能快速导入AE中，打开Blender，再导入摄像机路径之前先确保你Blender的帧率与你渲染出来的视频帧率一致，点开输出属性，就能看到帧率选项，给它改成与渲染出来的视频一样的帧率，之后再导入glb文件，导入进来之后要与时间轴的范围要去摄像机路径一样的长度，输出属性，帧范围，结束点。现在看画面是看不到摄像机的，因为摄像机的位置是按照游戏里的坐标来导出来的，所以我们要给摄像机的位置重置到世界中心，导出来的摄像机路径的第零帧是不能用的，所以我们给时间指针移到第一帧，点击物体属性，再变换里的下面点开变换增量，将变换增量里的位置XYZ改成变换下的位置XYZ的相反数，也就是乘于个-1，这样摄像机就回到了世界00的位置，如果想看到摄像机路径的话只要点开物体属性下的运动路径，再点击计算，弹出来的窗口直接点击确定就可以显示摄像机路径了，改完这些之后你要确保你AE与Blender都安装了BlenderAe插件，且同时打开Blender与AE，点击视图右上角的小箭头，就能看到BlenderAe插件，点击BlenderAe插件，点击连接到AE，记得给使用Ae合成中心点开，这样摄像机位置就是从画面中心当作起点，记得一定要先给场景集合里的摄像机选择上再点导出到AE里，不然会提示错误，等待一段时间游戏里的摄像机路径就导入到AE里了</p>
+<hr>
+<h3 id="摄像机路径的应用"><a href="#摄像机路径的应用" class="headerlink" title="摄像机路径的应用"></a>摄像机路径的应用</h3><p>如果你是会用AE的3D图层的话这里可以直接跳过，按照你之前的方法来操作，如果不会的话就继续向下看，点击要变成3D图层的图层，给它的像一个立方体的选项点上，这样这个图层的3D图层打开了，之后在给导出来的摄像机复制进来，如果你在上一步没有给摄像机试图转向北方的话我们先给变成3D图层位置改变一下，选中变成3D图层的图层和摄像机，在点字幕p就能出现这两个图层的位置参数，我们给摄像机的位置参数一摸一样的复制到3D图层的位置参数,我们看到视图就能看到3D图层在画面的中间，如果没有看到，只需要给3D图层旋转个90度并且给z轴数值减小即可看到，之后按照你自己的需求移动到指定位置。</p>
+<hr>
+<h3 id="复合应用"><a href="#复合应用" class="headerlink" title="复合应用"></a>复合应用</h3><p>这里的复合应用是在画面合成与摄像机路径的结合，这两个结合在一起可以完美的将画面不存的文字或模型完美的融合在画面里。我在AE里没有找到可以完美融合在一起的方法，所以我们这边来用三维软件来合成渲染出来，在开始之前先确保有导出深度图与摄像机路径。好，打开Blender我们先将摄像机归位，我们先给视图层属性下的数据的z选项选择上，之后我们打开Blender自带的Compositing界面，给界面左上角的使用节点选项打开，加入Z通道合成，点击xxx添加，颜色，Z通道合成，我们为了更好的预览我们在添加一个预览器，添加，输出，预览器将Z通道合成的图像和Z对应的连接到预览器和合成上，我们还要给渲染层的深度链接到Z通道合成的Z上，记得是连在渲染图层的图像链接的下面不要连错了。之后我们要给深度图导入进来，这里导入可以直接拖入进去，但是要拖入exr序列的第0帧才行，为了更好的预览，我们给我们导入进来的exr的色彩空间调整正确，色彩空间，选择sRGB，因为我们要导入的是一个序列帧，我们给单张图像改成图像序列，给帧改成你序列最后一帧的数字，我们给点回Blender自带的Layout的界面，在导入你需要的模型或文字，移动到合适的位置，之后再回到Blender自带的Compositing界面，我们现在看到画面并没有我们刚才放的物体，想要预览的话我们点击渲染层右下角的渲染就能看到预览效果。在Blender上的操作已经操作完了，我们要给画面渲染出来用因为我们不需要exr里的颜色通道，所以我们就直接给exr的图像链接直接断开选渲染，给EXR之前连在Z通道合成的图像的Alpha调成0，颜色调成黑色，之后我们设置一下渲染设置，点开输出设置，我们先确认一下分辨率和帧率是否正确，在往下滑找到输出选项，给文件格式改成PNG，因为PNG的更显效果会好一些，设置好输出路径再给颜色改成RGBA，色深和压缩自行调整，输出设置也设置完了，这样就可以导出了，点击CTRL加f12就可以渲染了，等待渲染完之后将PNG序列导入AE中，与原素材放在一起，如果渲染出来的PNG序列的长度长于原始素材的话只要给PNG序列的时间重映射打开于原始素材对齐即可。如果为了导入的模型什么能与画面能呈现一样的光影效果，可以给看KK的视频如何为Minecraft3D镜头创建真实的光影效果，b站搬运链接<a href="https://www.bilibili.com/video/BV1324y1X7eb/%EF%BC%8C%E6%B2%B9%E7%AE%A1%E9%93%BE%E6%8E%A5https://www.youtube.com/watch?v=Mu9kPkJrlPo&t=7s%EF%BC%8C%E5%85%B6%E4%BB%96%E7%9A%84%E8%87%AA%E8%A1%8C%E6%91%B8%E7%B4%A2%EF%BC%8C%E5%A6%82%E6%9E%9C%E4%B8%AD%E9%80%94%E6%9C%89%E9%81%87%E5%88%B0%E4%BB%80%E4%B9%88%E9%97%AE%E9%A2%98%E5%8F%AF%E4%BB%A5%E5%88%B0%E9%97%B2%E8%81%8A%E7%BE%A4%E8%AF%A2%E9%97%AE">https://www.bilibili.com/video/BV1324y1X7eb/，油管链接https://www.youtube.com/watch?v=Mu9kPkJrlPo&amp;t=7s，其他的自行摸索，如果中途有遇到什么问题可以到闲聊群询问</a></p>
+<p style="font-size: 1%;line-height:10px;color:rgba(255,255,255,0.0)">视频会晚些到，现在就先看着文字教程吧</p>
+
+<hr>
+<h2 id="教程结束"><a href="#教程结束" class="headerlink" title="教程结束"></a>教程结束</h2>]]></content>
+      <categories>
+        <category>教程</category>
+      </categories>
+      <tags>
+        <tag>文字</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>我常用的软件和插件</title>
+    <url>/2023/02/19/%E6%88%91%E5%B8%B8%E7%94%A8%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%92%8C%E6%8F%92%E4%BB%B6/</url>
+    <content><![CDATA[<h1 id="有能力请支持正版"><a href="#有能力请支持正版" class="headerlink" title="有能力请支持正版"></a>有能力请支持正版</h1><span id="more"></span>
+
+<hr>
+<h1 id="软件插件"><a href="#软件插件" class="headerlink" title="软件插件"></a>软件插件</h1><h2 id="Blander插件"><a href="#Blander插件" class="headerlink" title="Blander插件"></a>Blander插件</h2><h3 id="BalnderAE："><a href="#BalnderAE：" class="headerlink" title="BalnderAE："></a>BalnderAE：</h3><p>(官方)<a href="https://aescripts.com/blenderae/">https://aescripts.com/blenderae/</a>   (和谐版，有能力请支持正版)<a href="http://www.gfxcamp.com/aescripts-blenderae/">http://www.gfxcamp.com/aescripts-blenderae/</a></p>
+<h2 id="After-Effects插件"><a href="#After-Effects插件" class="headerlink" title="After Effects插件"></a>After Effects插件</h2><h3 id="BalnderAE：-1"><a href="#BalnderAE：-1" class="headerlink" title="BalnderAE："></a>BalnderAE：</h3><p>(官方)<a href="https://aescripts.com/blenderae/">https://aescripts.com/blenderae/</a>   (和谐版，有能力请支持正版)<a href="http://www.gfxcamp.com/aescripts-blenderae/">http://www.gfxcamp.com/aescripts-blenderae/</a></p>
+<h3 id="Fast-Bokeh："><a href="#Fast-Bokeh：" class="headerlink" title="Fast Bokeh："></a>Fast Bokeh：</h3><p>(官方)<a href="https://www.rowbyte.com/fast-bokeh">https://www.rowbyte.com/fast-bokeh</a>   (和谐版，有能力请支持正版)<a href="https://www.lookae.com/fastbokeh-208/">https://www.lookae.com/fastbokeh-208/</a></p>
+<h3 id="FXConsole："><a href="#FXConsole：" class="headerlink" title="FXConsole："></a>FXConsole：</h3><p>(官方)<a href="https://www.videocopilot.net/tutorials/fx_console_plugin/">https://www.videocopilot.net/tutorials/fx_console_plugin/</a>   (和谐版，有能力请支持正版)<a href="https://www.lookae.com/fxconsole-105/">https://www.lookae.com/fxconsole-105/</a></p>
+<h3 id="Mocha-por："><a href="#Mocha-por：" class="headerlink" title="Mocha por："></a>Mocha por：</h3><p>(官方)<a href="https://borisfx.com/products/mocha-pro/">https://borisfx.com/products/mocha-pro/</a>   (和谐版，有能力请支持正版)<a href="https://www.lookae.com/mocha-965/">https://www.lookae.com/mocha-965/</a></p>
+<h3 id="Magic-Bullet-Suite："><a href="#Magic-Bullet-Suite：" class="headerlink" title="Magic Bullet Suite："></a>Magic Bullet Suite：</h3><p>(官方)<a href="https://www.maxon.net/en/red-giant/magic-bullet">https://www.maxon.net/en/red-giant/magic-bullet</a>   (和谐版，有能力请支持正版)<a href="https://www.lookae.com/mbs-13016/">https://www.lookae.com/mbs-13016/</a></p>
+<h2 id="Cinema-4D插件"><a href="#Cinema-4D插件" class="headerlink" title="Cinema 4D插件"></a>Cinema 4D插件</h2><h3 id="Redshift官网："><a href="#Redshift官网：" class="headerlink" title="Redshift官网："></a>Redshift官网：</h3><p>(官方)<a href="https://www.maxon.net/zh/redshift">https://www.maxon.net/zh/redshift</a></p>
+<h3 id="INSYDIUM套装："><a href="#INSYDIUM套装：" class="headerlink" title="INSYDIUM套装："></a>INSYDIUM套装：</h3><p>(官方)<a href="https://insydium.ltd/">https://insydium.ltd/</a></p>
+<hr>
+<h1 id="模型导出"><a href="#模型导出" class="headerlink" title="模型导出"></a>模型导出</h1><h2 id="mineways"><a href="#mineways" class="headerlink" title="mineways"></a>mineways</h2><p>优点：有图形界面，可以导出独立方块，操作简单<br>缺点：不可导实体，无法导出群系颜色（只会呈现单一颜色），不自带中文，地图太大会占有很多内存</p>
+<p>官网地址：<a href="https://www.realtimerendering.com/erich/minecraft/public/mineways/">https://www.realtimerendering.com/erich/minecraft/public/mineways/</a></p>
+<h2 id="W2M"><a href="#W2M" class="headerlink" title="W2M"></a>W2M</h2><p>优点：可导模组模型，自带中文<br>缺点：不可导实体，无法导出群系颜色（只会呈现灰色），没法导出独立方块，没有图形化界面，操作麻烦</p>
+<p>地址：<a href="https://www.bilibili.com/video/BV1YR4y1e7ce/">https://www.bilibili.com/video/BV1YR4y1e7ce/</a></p>
+<h2 id="jMc2Obj"><a href="#jMc2Obj" class="headerlink" title="jMc2Obj"></a>jMc2Obj</h2><p>优点：有图形界面，可以导出独立方块，操作易上手，自带中文，可以导出实体<br>缺点：有导出群系的选项但是不知道如何导出</p>
+<p>官网地址：<a href="https://github.com/jmc2obj/j-mc-2-obj">https://github.com/jmc2obj/j-mc-2-obj</a></p>
+]]></content>
+      <categories>
+        <category>分享</category>
+      </categories>
+      <tags>
+        <tag>文字</tag>
+      </tags>
+  </entry>
+</search>
