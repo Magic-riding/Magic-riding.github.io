@@ -228,4 +228,55 @@
         <tag>文字</tag>
       </tags>
   </entry>
+  <entry>
+    <title>如何在高版本导入动画模型</title>
+    <url>/2024/01/22/%E5%A6%82%E4%BD%95%E5%9C%A8%E9%AB%98%E7%89%88%E6%9C%AC%E5%AF%BC%E5%85%A5%E5%8A%A8%E7%94%BB%E6%A8%A1%E5%9E%8B/</url>
+    <content><![CDATA[<h1 id="如何在高版本导入动画模型"><a href="#如何在高版本导入动画模型" class="headerlink" title="如何在高版本导入动画模型"></a>如何在高版本导入动画模型</h1><span id="more"></span>
+
+<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>如何在高版本里像BlockBuster Mod那样给自己自定义的三维动画模型导入游戏中并播放。<br>在教程之前，要<a style="color:rgba(255,0,0,1)">注意</a>这个教程适用于1.19.4或是1.20.X版本，1.19.4的版本无法实现。如果你执意要在1.19.4版本一下将自己的模型导入游戏中的话，也不说不行，但是无法导入模型的动画，最多做点简单点的动作。</p>
+<p>1.19.4以下的版本教程在最后面，请自行跳转。</p>
+<hr>
+<h2 id="教程中需要的文件和软件"><a href="#教程中需要的文件和软件" class="headerlink" title="教程中需要的文件和软件"></a>教程中需要的文件和软件</h2><p><a href="/data/空白数据包和材质包.zip" download="空白数据包和材质包.zip">空白数据包和资源包</a><br><a href="/data/Animated Jaca人物模型.ajmodel" download="Animated Jaca人物模型.ajmodel">Animated Jaca人物模型</a>(<a href="https://space.bilibili.com/3186399" >这里非常感谢月影Yancie提供的人物模型</a>)<br><a href="https://www.blockbench.net/">Blockbench官网</a><br><a href="https://optifine.net/home">OptiFine官网</a></p>
+<hr>
+<h2 id="教程"><a href="#教程" class="headerlink" title="教程"></a>教程</h2><h3 id="1-19-4及以上版本教程"><a href="#1-19-4及以上版本教程" class="headerlink" title="1.19.4及以上版本教程"></a>1.19.4及以上版本教程</h3><h4 id="教程前言"><a href="#教程前言" class="headerlink" title="教程前言"></a>教程前言</h4><p>在开始教程之前得先提前准备好空白的资源包和空白的数据包，材质包中要有pack.mcmeta文件和空的assets文件夹，数据包中要有pack.mcmeta和空的data文件夹。</p>
+<hr>
+<h4 id="游戏外"><a href="#游戏外" class="headerlink" title="游戏外"></a>游戏外</h4><p>在进入游戏之前我们先安装Blockbench。</p>
+<p>如果你安装完Blockbench之后显示的是英文的话，你只需要点击左上方的File，在弹出来的下拉菜单中将鼠标放到Preferences选项上，点击右边的Settings选项，在弹出来的选项中点击左边的General选项，在General页面中点击Language下方的English，找到中文(Chinese)，在重启一下软件就能变成中文了。</p>
+<p>安装完之后我们要在Blockbench安装我们所需要的插件，回到Blockbench中，点击左上角的文件，在出现的下拉菜单中点击插件选项，点击弹窗中点击左上角的可用，再到上方的输入框中输入Animated Java点击下方的Animated Java，在右侧界面中点击安装，等一会就安装完成了。</p>
+<p>安装完插件之后回到一开始的界面，点击左上角的文件，在新建里点击Animated Java Rig，新建完之后会给你一个弹窗，看不懂因为不用担心，这里只需要填写三个带红色字的选项就行。<br><strong>第一个</strong><br>Project Name，这里填写上你要建模的模型名称就行，<br><strong>第二个</strong><br>Resource Pack，这个就是将之前准备好的空白资源包的路径填写上去，最后要选择上资源包里的pack.mcmeta文件才行，<br><strong>第三个</strong><br>Data Pack，这里填写上之前准备好的数据包的文件就行了，跟资源包一样最后要选上数据包里的pack.mcmeta文件就行了，<br>之后在将Target Minecraft Version这个选项改成1.19.4，在点击下方的Done按钮就行了。<br>之后开始建你需要的模型和你需要的动画就行了，这里关于Blockbench的教程我这里就不多赘述了，自行研究。<strong>这里我多说一嘴</strong>，如果你做的动画想要一直重复播放的话只需要给动画的Loop Mode改成Loop就可以导入游戏中可以一直重复播放。<br>建完模型做好动画之后点击上方的Animated Java选项，点击下拉框中的Export Project选项就可以导出了，导出完之后将我创建的材质包加载在游戏里，数据包导入地图中，这里如何将数据包导入地图中的方法就不说了，自行摸索。</p>
+<hr>
+<h4 id="游戏内"><a href="#游戏内" class="headerlink" title="游戏内"></a>游戏内</h4><p>进入地图到达你要放置模型的地方，输入</p>
+<figure class="highlight json"><table><tr><td class="code"><pre><span class="line">/function animated_java<span class="punctuation">:</span>“模型名称”/summon</span><br></pre></td></tr></table></figure>
+<p>“模型名称”就是你在Blockbench中给他的模型名称，注意这个模型放置的位置于的位置和朝向息息相关，如果要精确的放置的话请确保你的位置和朝向都是你要的，或者也可以用tp指令来辅助你放置，放置完之后是不会给你展示动画的，得要用另一条指令来让他运行，输入</p>
+<figure class="highlight json"><table><tr><td class="code"><pre><span class="line">/execute as @e<span class="punctuation">[</span>tag=aj.“模型名称”.root<span class="punctuation">]</span> run function animated_java<span class="punctuation">:</span>“模型名称”/animations/animation/play</span><br></pre></td></tr></table></figure>
+<p>这样就模型就动起来了。</p>
+<p>想让模型的动画中途停下来的话著需要输入</p>
+<figure class="highlight json"><table><tr><td class="code"><pre><span class="line">/execute as @e<span class="punctuation">[</span>tag=aj.“模型名称”.root<span class="punctuation">]</span> run function animated_java<span class="punctuation">:</span>“模型名称”/animations/animation/stop</span><br></pre></td></tr></table></figure>
+
+<p>在1.19.4的模型动画导入的教程结束！！！</p>
+<hr>
+<h4 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h4><p>如果你用replay录制的时候先等周围的区块加载完之后，且确保不会在卡的情况下在输入指令，不让在渲染出来的视频你会很明显的看出来他的动作会一卡一卡的，非常影响观感。</p>
+<hr>
+<h3 id="1-19-4以下版本教程"><a href="#1-19-4以下版本教程" class="headerlink" title="1.19.4以下版本教程"></a>1.19.4以下版本教程</h3><h4 id="教程前言-1"><a href="#教程前言-1" class="headerlink" title="教程前言"></a>教程前言</h4><p>接下来是在1.19.4以下的游戏版本中如何给模型导入进去，虽然没法做复杂的动画，但这个完全依靠材质包，不用去给地图添加数据包，但这个依赖OptiFine这个mod，所以请提前在游戏中安装好OptiFine。<br><strong>如果你是直接来看到这边的观众，请想去看前面关于Blockbench如何调整语言，之后在来看这里。</strong><br><strong>这里我提醒一点</strong>，我这方法只能需改实体模型，具体的方块模型请另行搜索教程。还要提前准备好一个空白资源包。</p>
+<hr>
+<h4 id="游戏外-1"><a href="#游戏外-1" class="headerlink" title="游戏外"></a>游戏外</h4><p>在进入游戏之前我们先安装Blockbench。</p>
+<p>为了让我们能更直观清楚我们要改那个实体的模型，我们首先在Blockbench中安装Cem Template Loader插件，打开Blockbench，点击左上角的文件选项，在出现的下拉框里点击插件选项，在出现的弹窗里点击左上角的可用，在上方的搜索框里搜Cem Template Loader点击下方出现的Cem Template Loader，在左边的信息面板里点击安装，过一会就安装好了。</p>
+<p>之后回到一开始界面里，点击左上角的文件按钮，在出现的下拉框里将鼠标放到新建选项，在左侧弹出来的下拉框中点击OptiFine 实体这个选项，在弹窗中点击Armor Stand这个选项，图像是一个盔甲架的图标，点击之后点击弹窗的右下角的Load按钮，这样就给盔甲加的模型导入进来了，这里关于Blockbench的教程我这就不多赘述，请各位自行摸索。</p>
+<p>好，如果你已经做好了你需要的模型之后点击左上角的文件选项，在出现的下拉框中将鼠标移动的导出选项上点击导出OptiFine JEM选项，将路径放到我们准备好的空白资源包的assets\minecraft\optifine\cem目录下，之后右键右下角的纹理上，另存为到assets\minecraft\textures文件里，如果没有此目录请自行创建。</p>
+<p>如果你像做一些简单点的动作的话只需要在Blockbench中在右侧的大纲中任意部位的文件夹之后在中间下面的ANIMATION EDITOR中输入对应的运动参数,如</p>
+<figure class="highlight json"><table><tr><td class="code"><pre><span class="line"><span class="punctuation">[</span></span><br><span class="line">  <span class="punctuation">&#123;</span></span><br><span class="line">  <span class="attr">&quot;left_arm.rx&quot;</span><span class="punctuation">:</span><span class="string">&quot;sin(age)&quot;</span></span><br><span class="line">  <span class="punctuation">&#125;</span></span><br><span class="line"><span class="punctuation">]</span></span><br></pre></td></tr></table></figure>
+<p>这样盔甲left_arm模块就是左手就会在一直在摆手，其他参数我就不细讲了。<br>请各位到<a href="https://optifine.net/home">OptiFine官网上的详细说明</a>里自行查看。</p>
+<hr>
+<h4 id="游戏内-1"><a href="#游戏内-1" class="headerlink" title="游戏内"></a>游戏内</h4><p>之后只要进入游戏中将材质包加载到游戏中，放出盔甲架就能看到我们修改过的模型了。</p>
+<p style="font-size: 1%;line-height:10px;color:rgba(255,255,255,0.0)">视频会晚些到，现在就先看着文字教程吧</p>
+
+<hr>
+<h2 id="教程结束"><a href="#教程结束" class="headerlink" title="教程结束"></a>教程结束</h2>]]></content>
+      <categories>
+        <category>教程</category>
+      </categories>
+      <tags>
+        <tag>文字</tag>
+      </tags>
+  </entry>
 </search>
