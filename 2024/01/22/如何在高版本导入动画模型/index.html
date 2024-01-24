@@ -28,7 +28,7 @@
 <meta property="og:description" content="如何在高版本导入动画模型">
 <meta property="og:locale" content="zh_CN">
 <meta property="article:published_time" content="2024-01-22T05:07:00.000Z">
-<meta property="article:modified_time" content="2024-01-24T05:19:41.819Z">
+<meta property="article:modified_time" content="2024-01-24T05:23:59.771Z">
 <meta property="article:author" content="Magic_riding">
 <meta property="article:tag" content="文字">
 <meta name="twitter:card" content="summary">
@@ -219,7 +219,7 @@
                   <i class="far fa-calendar-check"></i>
                 </span>
                 <span class="post-meta-item-text">更新于</span>
-                <time title="修改时间：2024-01-24 13:19:41" itemprop="dateModified" datetime="2024-01-24T13:19:41+08:00">2024-01-24</time>
+                <time title="修改时间：2024-01-24 13:23:59" itemprop="dateModified" datetime="2024-01-24T13:23:59+08:00">2024-01-24</time>
               </span>
             <span class="post-meta-item">
               <span class="post-meta-item-icon">
@@ -267,15 +267,15 @@
 <p>建完模型做好动画之后点击上方的Animated Java选项，点击下拉框中的Export Project选项就可以导出了，导出完之后将我创建的材质包加载在游戏里，数据包导入地图中，这里如何将数据包导入地图中的方法就不说了，自行摸索。</p>
 <hr>
 <h4 id="游戏内"><a href="#游戏内" class="headerlink" title="游戏内"></a>游戏内</h4><p>进入地图到达你要放置模型的地方，输入</p>
-<figure class="highlight json"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">/function animated_java<span class="punctuation">:</span>“模型名称”/summon</span><br></pre></td></tr></table></figure>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">/function animated_java:“模型名称”/summon</span><br></pre></td></tr></table></figure>
 <p>“模型名称”就是你在Blockbench中给他的模型名称，这样模型就导入到游戏中了，但注意这个模型放置的位置于的位置和朝向息息相关，如果要精确的放置的话请确保你的位置和朝向都是你要的，或者也可以用tp指令来辅助你放置，放置完之后是不会给你展示动画的，得要用另一条指令来让他运行，输入</p>
-<figure class="highlight json"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">/execute as @e<span class="punctuation">[</span>tag=aj.“模型名称”.root<span class="punctuation">]</span> run function animated_java<span class="punctuation">:</span>“模型名称”/animations/animation/play</span><br></pre></td></tr></table></figure>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">/execute as @e[tag=aj.“模型名称”.root] run function animated_java:“模型名称”/animations/animation/play</span><br></pre></td></tr></table></figure>
 <p>这样就模型就动起来了。</p>
 <p>想让模型的动画中途停下来的话著需要输入</p>
-<figure class="highlight json"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">/execute as @e<span class="punctuation">[</span>tag=aj.“模型名称”.root<span class="punctuation">]</span> run function animated_java<span class="punctuation">:</span>“模型名称”/animations/animation/stop</span><br></pre></td></tr></table></figure>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">/execute as @e[tag=aj.“模型名称”.root] run function animated_java:“模型名称”/animations/animation/stop</span><br></pre></td></tr></table></figure>
 
 <p>删除全部模型</p>
-<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">/function animated_java:text/remove/all</span><br></pre></td></tr></table></figure>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">/function animated_java:“模型名称”/remove/all</span><br></pre></td></tr></table></figure>
 
 <p>在1.19.4的模型动画导入的教程结束！！！</p>
 <hr>
@@ -288,7 +288,7 @@
 <p>之后回到一开始界面里，点击左上角的文件按钮，在出现的下拉框里将鼠标放到新建选项，在左侧弹出来的下拉框中点击OptiFine 实体这个选项，在弹窗中点击Armor Stand这个选项，图像是一个盔甲架的图标，点击之后点击弹窗的右下角的Load按钮，这样就给盔甲加的模型导入进来了，这里关于Blockbench的教程我这就不多赘述，请各位自行摸索。</p>
 <p>好，如果你已经做好了你需要的模型之后点击左上角的文件选项，在出现的下拉框中将鼠标移动的导出选项上点击导出OptiFine JEM选项，将路径放到我们准备好的空白资源包的assets\minecraft\optifine\cem目录下，之后右键右下角的纹理上，另存为到assets\minecraft\textures文件里，如果没有此目录请自行创建。</p>
 <p>如果你像做一些简单点的动作的话只需要在Blockbench中在右侧的大纲中任意部位的文件夹之后在中间下面的ANIMATION EDITOR中输入对应的运动参数,如</p>
-<figure class="highlight json"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="punctuation">[</span></span><br><span class="line">  <span class="punctuation">&#123;</span></span><br><span class="line">  <span class="attr">&quot;left_arm.rx&quot;</span><span class="punctuation">:</span><span class="string">&quot;sin(age)&quot;</span></span><br><span class="line">  <span class="punctuation">&#125;</span></span><br><span class="line"><span class="punctuation">]</span></span><br></pre></td></tr></table></figure>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">[</span><br><span class="line">  &#123;</span><br><span class="line">  &quot;left_arm.rx&quot;:&quot;sin(age)&quot;</span><br><span class="line">  &#125;</span><br><span class="line">]</span><br></pre></td></tr></table></figure>
 <p>这样盔甲left_arm模块就是左手就会在一直在摆手，其他参数我就不细讲了。<br>请各位到<a target="_blank" rel="noopener" href="https://optifine.net/home">OptiFine官网上的详细说明</a>里自行查看。</p>
 <hr>
 <h4 id="游戏内-1"><a href="#游戏内-1" class="headerlink" title="游戏内"></a>游戏内</h4><p>之后只要进入游戏中将材质包加载到游戏中，放出盔甲架就能看到我们修改过的模型了。</p>
