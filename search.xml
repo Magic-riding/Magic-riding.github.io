@@ -233,7 +233,7 @@
     <url>/2024/01/22/%E5%A6%82%E4%BD%95%E5%9C%A8%E9%AB%98%E7%89%88%E6%9C%AC%E5%AF%BC%E5%85%A5%E5%8A%A8%E7%94%BB%E6%A8%A1%E5%9E%8B/</url>
     <content><![CDATA[<h1 id="如何在高版本导入动画模型"><a href="#如何在高版本导入动画模型" class="headerlink" title="如何在高版本导入动画模型"></a>如何在高版本导入动画模型</h1><span id="more"></span>
 
-<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>如何在高版本里像BlockBuster Mod那样给自己自定义的三维动画模型导入游戏中并播放。<br>在教程之前，要<a style="color:rgba(255,0,0,1)">注意</a>这个教程适用于1.19.4或是1.20.X版本，1.19.4的版本无法实现。如果你执意要在1.19.4版本一下将自己的模型导入游戏中的话，也不说不行，但是无法导入模型的动画，最多做点简单点的动作。</p>
+<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>如何在高版本里像BlockBuster Mod那样给自己自定义的三维动画模型导入游戏中并播放。<br>在教程之前，要<a style="color:rgba(255,0,0,1)">注意</a>这个教程适用于1.19.4或是1.20.X版本，1.19.4以下的版本无法实现。如果你执意要在1.19.4版本一下将自己的模型导入游戏中的话，也不说不行，但是无法导入模型的动画，最多做点简单点的动作。</p>
 <p>1.19.4以下的版本教程在最后面，请自行跳转。</p>
 <hr>
 <h2 id="教程中需要的文件和软件"><a href="#教程中需要的文件和软件" class="headerlink" title="教程中需要的文件和软件"></a>教程中需要的文件和软件</h2><p><a href="/data/空白数据包和材质包.zip" download="空白数据包和材质包.zip">空白数据包和资源包</a><br><a href="/data/Animated Jaca人物模型.ajmodel" download="Animated Jaca人物模型.ajmodel">Animated Jaca人物模型</a>(<a href="https://space.bilibili.com/3186399" >这里非常感谢月影Yancie提供的人物模型</a>)<br><a href="https://www.blockbench.net/">Blockbench官网</a><br><a href="https://optifine.net/home">OptiFine官网</a></p>
